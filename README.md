@@ -1,4 +1,3 @@
-
 # Rest Express
 
 This is a Rest API project built using Express and Vite.
